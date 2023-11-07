@@ -48,13 +48,13 @@
 	            </div>
 	            <div class="form-group d-md-flex">
 	            	<div class="w-50">
-	            		<label class="checkbox-wrap checkbox-primary">Remember Me
+	            		<label class="checkbox-wrap checkbox-primary">Remember Mee
 									  <input type="checkbox" checked>
 									  <span class="checkmark"></span>
 									</label>
 								</div>
 								<div class="w-50 text-md-right">
-									<a href="#">Forgot Password</a>
+									<a href="#">Forgot Passworddd</a>
 								</div>
 	            </div>
 	            <div class="form-group">
