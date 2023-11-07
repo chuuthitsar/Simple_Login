@@ -54,7 +54,7 @@
 									</label>
 								</div>
 								<div class="w-50 text-md-right">
-									<a href="#">Forgot Password</a>
+									<a href="#">Forgot Passworddd</a>
 								</div>
 	            </div>
 	            <div class="form-group">
